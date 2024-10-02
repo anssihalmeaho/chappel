@@ -1,0 +1,9 @@
+[submodule "imported/loqic"]
+	path = imported/loqic
+	url = https://github.com/anssihalmeaho/loqic.git
+[submodule "imported/httprouter"]
+	path = imported/httprouter
+	url = https://github.com/anssihalmeaho/httprouter.git
+[submodule "imported/fuse"]
+	path = imported/fuse
+	url = https://github.com/anssihalmeaho/fuse.git
